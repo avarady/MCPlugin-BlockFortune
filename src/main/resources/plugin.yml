@@ -1,0 +1,28 @@
+name: BlockFortune
+main: com.xxyrana.blockfortune.BlockFortune
+version: 1.1
+permissions:
+    fortune.zero:
+        description: No added block drops
+        default: true
+    fortune.one:
+        description: Add one block drop
+        default: false
+    fortune.two:
+        description: Add two block drops
+        default: false
+    fortune.three:
+        description: Add three block drops
+        default: false
+    fortune.four:
+        description: Add four block drops
+        default: false
+    fortune.five:
+        description: Add five block drops
+        default: false
+    fortune.six:
+        description: Add six block drops
+        default: false
+    fortune.seven:
+        description: Add seven block drops
+        default: false
